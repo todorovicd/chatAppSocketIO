@@ -1,0 +1,30 @@
+{
+  "name": "chatappsocketio",
+  "version": "1.0.0",
+  "description": "Chat application built using html, css, js, and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todorovicd/chatAppSocketIO.git"
+  },
+  "keywords": [
+    "chat",
+    "socketio",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "Dom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/todorovicd/chatAppSocketIO/issues"
+  },
+  "homepage": "https://github.com/todorovicd/chatAppSocketIO#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
